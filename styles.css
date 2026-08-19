@@ -535,8 +535,8 @@ ul { list-style: none; }
 
 /* ============ TESTIMONIALS ============ */
 .testimonials { background: linear-gradient(180deg, var(--ivory), var(--cream)); }
-.testimonial-slider { position: relative; max-width: 860px; margin: 0 auto; }
-.testi-track { display: flex; overflow: hidden; }
+.testimonial-slider { position: relative; max-width: 860px; margin: 0 auto; overflow: hidden; }
+.testi-track { display: flex; }
 .testi-slide {
   flex: 0 0 100%;
   background: var(--white);
